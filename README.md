@@ -47,7 +47,7 @@
 
 <br/>
 
-<a href="https://github.com/Sithum-Ravishka">
+<a href="https://github.com/KodeshaHasindu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sithum-Ravishka&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithum-Ravishka&theme=buefy&layout=compact" />
 </a>
