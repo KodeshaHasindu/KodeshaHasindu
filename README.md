@@ -48,12 +48,12 @@
 <br/>
 
 <a href="https://github.com/KodeshaHasindu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sithum-Ravishka&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithum-Ravishka&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KodeshaHasindu&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodeshaHasindu&theme=buefy&layout=compact" />
 </a>
 
 <h3> 🔥 &nbsp;Streak Stats </h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sithum-Ravishka&" alt="Sithum-Ravishka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KodeshaHasindu&" alt="KodeshaHasindu" /></p>
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
