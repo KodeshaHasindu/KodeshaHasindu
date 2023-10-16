@@ -60,8 +60,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sithum-ravishka-753619211/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kodesha-hasindu-943745211/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/sithum_ravishka/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:sithumravishka1@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
- <a href="https://www.facebook.com/people/Sithum-Ravishka/100008639329023/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook"></a>
+<a href="mailto:kodeshahasindu@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
+ <a href="https://www.facebook.com/kodesha.hasindu?mibextid=ZbWKwL"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook"></a>
 </p>
