@@ -17,7 +17,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology Degree at University of Sri Lanka Institute of Information Technology.
 - 🌱 &nbsp; Learning more about Web Development, Mobile Development and UX/UI Design.
-- ✍️ &nbsp; Pursuing Graphic Design and 3D model as hobbies/side hustles.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
